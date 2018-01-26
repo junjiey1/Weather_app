@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sää sovellus</string>
+    <string name="action_settings">VAIHDA KAUPUNKI</string>
+    <string name="city_name">Kaupunki:</string>
+    <string name="temp_text">Lämpötila:</string>
+    <string name="wind">Tuulen nopeus:</string>
+    <string name="cloud_text">Pilvisyys:</string>
+    <string name="pressure_text">Paine:</string>
+    <string name="humidity_text">Kosteus:</string>
+    <string name="rise_text">Auringonnousu:</string>
+    <string name="set_Text">Auringonlasku:</string>
+    <string name="update_text">Viimeinen Päivitys:</string>
+    <string name="description_text">Sää kuvaus:</string>
+    <string name="change_city">Vaihda Kaupunki:</string>
+    <string name="submitBtn">Lähetä:</string>
+</resources>

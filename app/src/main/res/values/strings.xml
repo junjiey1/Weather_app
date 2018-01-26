@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather_app</string>
+    <string name="action_settings">CHANGE CITY</string>
+    <string name="city_name">City: </string>
+    <string name="temp_text">Temp: </string>
+    <string name="wind">Wind: </string>
+    <string name="cloud_text">Cloud: </string>
+    <string name="pressure_text">Pressure: </string>
+    <string name="humidity_text">Humidity: </string>
+    <string name="rise_text">Sunrise: </string>
+    <string name="set_Text">Sunset: </string>
+    <string name="update_text">Last Updated: </string>
+    <string name="description_text">Description:</string>
+    <string name="change_city">Change City</string>
+    <string name="submitBtn">Submit</string>
+    <string name="waitDialog">Please wait...</string>
+
+</resources>
